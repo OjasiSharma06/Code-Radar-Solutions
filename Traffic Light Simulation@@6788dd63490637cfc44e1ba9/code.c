@@ -10,7 +10,7 @@ int main(){
         printf("Go");
     }
     else{
-        printf("Slow Down or Invalid");
+        printf("Slow Down");
     }
     return 0;
 }
