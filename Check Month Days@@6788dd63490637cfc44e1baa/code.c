@@ -20,7 +20,7 @@ int main(){
         printf("31");
         break;
         case 6:
-        printfd("30");
+        printf("30");
         break;
         case 7:
         printf("31");
